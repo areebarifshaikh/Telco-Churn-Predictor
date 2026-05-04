@@ -17,7 +17,7 @@ The model is trained on customer demographics, account information, and service 
 ## 🌐 Deployment
 
 ### Live Demo
-This app is deployed on **Streamlit Community Cloud**:
+This app is deployed on [**Streamlit Community Cloud**](https://telco-churn-predictor-12.streamlit.app/):
 ```
 https://telco-churn-predictor-12.streamlit.app/
 ```
