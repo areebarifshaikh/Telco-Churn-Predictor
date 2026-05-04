@@ -22,3 +22,4 @@ streamlit run app.py
 Deployed on [Streamlit Community Cloud](https://telco-churn-predictor-12.streamlit.app)
 
 ## GUI
+<img width="548" height="732" alt="image" src="https://github.com/user-attachments/assets/785080a7-e98c-4573-b07d-02a52f481a24" />
