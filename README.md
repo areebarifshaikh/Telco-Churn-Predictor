@@ -100,6 +100,7 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501` in your browser.
 
+<<<<<<< HEAD
 ### Using the App
 
 1. **Enter customer details** in the sidebar:
@@ -220,3 +221,7 @@ Suggestions and improvements welcome! Feel free to:
 - Scikit-learn for machine learning tools
 
 ---
+=======
+## GUI
+<img width="548" height="732" alt="image" src="https://github.com/user-attachments/assets/785080a7-e98c-4573-b07d-02a52f481a24" />
+>>>>>>> 0b2a6637a20e6976a8829ae7ef16a7311242b1d2
